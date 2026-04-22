@@ -1,2 +1,19 @@
-# Automated-Kidney-Lesion-Classification-with-Explainable-AI-using-CNN-
-Developed a deep learning system to classify kidney CT scans into disease categories using ResNet50 (~81% accuracy). Integrated Grad-CAM for explainability, risk-based predictions, automated reporting, and an AI chatbot for patient support, enabling practical clinical decision assistance. Published in IJEDR (IF: 9.37).
+Automated Kidney Lesion Classification with Explainable AI
+An end-to-end deep learning system for classifying kidney CT scans into disease categories (Normal, Cyst, Stone, Tumor). The system enhances traditional diagnosis by providing accurate predictions along with explainability and decision support features.
+
+🌟 Features
+Deep learning model using ResNet50 with ~81% accuracy
+Grad-CAM based explainability to highlight important regions in CT scans
+Confidence-based risk prediction to identify uncertain cases
+Automated PDF diagnostic report generation
+AI-powered chatbot to assist patients with insights and queries
+Interactive interface for real-time CT image upload and prediction
+
+📂 Modules
+Prediction Module: Classifies CT images and provides confidence scores
+Explainability Module: Generates Grad-CAM visualizations
+Reporting Module: Creates structured diagnostic reports
+AI Assistant Module: Handles patient queries and provides guidance
+
+🛠️ Technologies Used
+Python TensorFlow OpenCV  NumPy Pandas
