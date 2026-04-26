@@ -1,4 +1,4 @@
-# 🧠 Automated Kidney Lesion Classification with Explainable AI
+# Automated Kidney Lesion Classification with Explainable AI
 
 An end-to-end AI-driven clinical decision support system for automated kidney lesion classification from CT images. This project addresses key challenges in medical imaging such as variability in radiologist interpretation, subtle lesion detection, and lack of explainability in traditional deep learning models.
 
