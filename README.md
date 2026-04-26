@@ -103,16 +103,6 @@ This system is designed as a **decision-support tool** and not a replacement for
 
 ---
 
-## 🚀 Future Enhancements
-
-- Integration with patient clinical data
-- Improved generalization on multi-hospital datasets
-- Advanced explainability techniques
-- Deployment in real-world healthcare environments
-
----
-
-
 ## 📄 Documentation  
 [📄 View Project Documentation (PDF)](KidneyLesionDocumentation.pdf)
 
