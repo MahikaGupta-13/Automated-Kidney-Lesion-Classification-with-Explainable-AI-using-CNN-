@@ -17,3 +17,13 @@ AI Assistant Module: Handles patient queries and provides guidance
 
 🛠️ Technologies Used
 Python TensorFlow OpenCV  NumPy Pandas
+
+## 📄 Documentation  
+[📄 View Project Documentation (PDF)](KidneyLesionDocumentation.pdf)
+
+## 📄 Research Paper  
+[📄 View Research Paper (IJEDR – IF: 9.37)](ResearchPaper.pdf)
+
+## 📊 Dataset  
+This project uses the publicly available CT Kidney Dataset from Kaggle:  
+[📊 CT Kidney Dataset (Normal, Cyst, Tumor, Stone)](https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone)
